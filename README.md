@@ -28,7 +28,7 @@ I am an Associate Software Engineer specializing in building scalable, high-thro
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SKKhatai&show_icons=true&theme=tokyonight" alt="Sourav's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKKhatai&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SKKhatai&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
 </p>
 
 ---
