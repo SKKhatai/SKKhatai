@@ -1,7 +1,7 @@
 # Hi, I'm Sourav Kumar Khatai 👋
 ### Software Engineer | Java & Backend Specialist
 
-I am an Associate Software Engineer specializing in building scalable, high-throughput, and event-driven microservices using **Java, Spring Boot, and Apache Kafka**. I enjoy optimizing backend architectures, containerizing deployments, and solving algorithmic problems.
+I am an  Software Engineer specializing in building scalable, high-throughput, and event-driven microservices using **Java, Spring Boot, and Apache Kafka**. I enjoy optimizing backend architectures, containerizing deployments, and solving algorithmic problems.
 
 ---
 
