@@ -38,7 +38,7 @@ I am an  Software Engineer specializing in building scalable, high-throughput, a
 * **[HypeStream - Event-Driven E-Commerce](https://github.com/SKKhatai/HypeStream-Microservices)**
   * A high-concurrency event-driven e-commerce platform built with Java 21, Spring Boot, and Apache Kafka.
 * **[Supply Chain Management System](https://github.com/SKKhatai/Supply-Chain-Management-System)**
-  * A relational backend system managing complex customer-supplier-order workflows built with Spring Boot and PostgreSQL.
+  * A relational backend system managing complex customer-supplier-order workflows built with Spring Boot and PostgreSQL..
 
 ---
 
