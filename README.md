@@ -1,7 +1,7 @@
 # Hi, I'm Sourav Kumar Khatai 👋
 ### Software Engineer | Java & Backend Specialist
 
-I am an  Software Engineer specializing in building scalable, high-throughput, and event-driven microservices using **Java, Spring Boot, Microservices, Apache Kafka and Docker**. I enjoy optimizing backend architectures, containerizing deployments, and solving data structure and algorithmic problems, solved 220+ problems on leetcode (Pattern Based).
+I am an  Software Engineer specializing in building scalable, high-throughput, and event-driven microservices using **Java, Spring Boot, Microservices, Apache Kafka and Docker**. I enjoy optimizing backend architectures, containerizing deployments, and solving data structure and algorithmic problems, solved 220+ problems on leetcode.
 
 ---
 
